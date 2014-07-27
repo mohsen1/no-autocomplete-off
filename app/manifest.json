@@ -20,7 +20,7 @@
         "css/test.css"
       ],
       "js": [
-        "content_scripts/disable.js"
+        "content_scripts/enable.js"
       ]
     }
   ]
